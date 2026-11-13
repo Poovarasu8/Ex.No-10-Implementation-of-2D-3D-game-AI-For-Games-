@@ -2,7 +2,7 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
-To develop a game ------------------------- 
+To develop a game -------------------------in Unity 
 ### Algorithm:
 ```
 1.
@@ -13,4 +13,4 @@ To develop a game -------------------------
 ### Output:
 
 ### Result:
-Thus the game was developed and adopted using AI technology.
+Thus the game was developed using Unity and adopted _-----------AI technology.
